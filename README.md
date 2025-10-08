@@ -18,5 +18,6 @@ ResNet50, EfficientNetV2-M, EfficientNetV2-L, EfficientNetV2-XL, ConvNeXt-Tiny, 
 # Results - Best Model 
 
 Model (Ensemble Mtehod): ConvNeXt-L + EffNetV2-L + EffNetV2-XL
+
 Micro F1 Score: 0.50088
 
