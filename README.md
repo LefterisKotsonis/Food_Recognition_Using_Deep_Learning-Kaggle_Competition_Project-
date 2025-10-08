@@ -14,3 +14,9 @@ ResNet50, EfficientNetV2-M, EfficientNetV2-L, EfficientNetV2-XL, ConvNeXt-Tiny, 
 #### Threshold tuning for multi-label optimization.
 
 #### Model ensembling for final submission.
+
+# Results - Best Model 
+
+Model (Ensemble Mtehod): ConvNeXt-L + EffNetV2-L + EffNetV2-XL
+Micro F1 Score: 0.50088
+
