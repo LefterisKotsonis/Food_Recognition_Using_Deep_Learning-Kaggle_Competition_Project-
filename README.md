@@ -5,12 +5,12 @@ This project was developed as an assignment for my MSc programme in Data Science
 
 ### Multiple model architectures:
 
-ResNet50, EfficientNetV2-M, EfficientNetV2-L, EfficientNetV2-XL, ConvNeXt-Tiny, and ConvNeXt-Large
+ResNet50, EfficientNetV2-M, EfficientNetV2-L, EfficientNetV2-XL, ConvNeXt-Tiny, and ConvNeXt-Large.
 
-Implemented transfer learning and fine-tuning
+### Implemented transfer learning and fine-tuning.
 
-Automated training, validation, and early stopping pipelines
+### Automated training, validation, and early stopping pipelines.
 
-Threshold tuning for multi-label optimization
+### Threshold tuning for multi-label optimization.
 
-Model ensembling for final submission
+### Model ensembling for final submission.
