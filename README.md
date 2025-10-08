@@ -5,7 +5,7 @@ This project was developed as part of a university Kaggle competition focused on
 
 Multiple model architectures:
 
-ResNet50, EfficientNetV2-M, EfficientNetV2-L, ConvNeXt-Tiny, and ConvNeXt-Base
+ResNet50, EfficientNetV2-M, EfficientNetV2-L, EfficientNetV2-XL, ConvNeXt-Tiny, and ConvNeXt-Large
 
 Implemented transfer learning and fine-tuning
 
