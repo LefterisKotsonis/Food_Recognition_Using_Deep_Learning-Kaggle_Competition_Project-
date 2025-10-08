@@ -1,9 +1,9 @@
-# Food_Recognition_Using_Deep_Learning-Kaggle_Competition_Project-
-This project was developed as part of a university Kaggle competition focused on multi-label food recognition. The dataset contains 40,000 training and 1,000 testing food images across 498 classes. The goal was to classify all food items present in an image and submit predictions evaluated by the micro F1-score metric.
+# Food_Recognition_Using_Deep_Learning-Kaggle_Competition_Project
+This project was developed as an assignment for my MSc programme in Data Science. Kaggle was used for an in-class competition focused on multi-label food recognition. The dataset contains 40,000 training and 1,000 testing food images across 498 classes. The goal was to classify all food items present in an image and submit predictions evaluated by the micro F1-score metric.
 
 # Features
 
-Multiple model architectures:
+### Multiple model architectures:
 
 ResNet50, EfficientNetV2-M, EfficientNetV2-L, EfficientNetV2-XL, ConvNeXt-Tiny, and ConvNeXt-Large
 
